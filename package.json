@@ -1,0 +1,10 @@
+{
+  "name": "gol",
+  "version": "1.0.0",
+  "description": "game of life ",
+  "main": "index.js",
+  "repository": "https://github.com/davorinpiljic/gameoflife.git",
+  "author": "davorin p.",
+  "license": "MIT",
+  "private": false
+}
